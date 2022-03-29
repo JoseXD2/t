@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Pico Idle",
+	"image": "Pico",
+	"position": [
+		-250,
+		0
+	],
+	"scale": 0.6,
+	"confirm_anim": "Pico Idle"
+}

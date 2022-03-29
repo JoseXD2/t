@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why is she gone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Oh. Guess I forgot to mention. She's not real at all."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "WHAT? THEN HOW WAS SHE TALKING HUH?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Oh it's easy. I just made everyone see her as a hologram. Nothing real going on here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "H-how was she on the wall!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Her wanted poster!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Oh fool. Of course I could\\'ve just put that there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Egh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "That deal we made. Sure just go back to your home."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf-worried",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Before you go... GF mentioned before I passed out that KB saw something within her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "monster",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "I'm just going to take you back."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "NO WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "He's breathing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank god!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "G-guys?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Is something wrong?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You passed out after."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "I-I know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "You know?..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Say..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you up for 1 more?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Sure...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "That's if I can hold up..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "First let's take you somewhere safe."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Still after that pass out.. your willing to go still."
+		}
+	]
+}

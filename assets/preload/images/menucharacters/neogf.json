@@ -1,0 +1,10 @@
+{
+	"idle_anim": "GF Dancing Beat",
+	"image": "gf",
+	"position": [
+		110,
+		140
+	],
+	"scale": 0.55,
+	"confirm_anim": "BF NOTE UP0"
+}

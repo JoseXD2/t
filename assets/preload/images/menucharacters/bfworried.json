@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle dance",
+	"image": "bfWorried",
+	"position": [
+		-291,
+		20
+	],
+	"scale": 0.85,
+	"confirm_anim": "BF NOTE LEFT0"
+}

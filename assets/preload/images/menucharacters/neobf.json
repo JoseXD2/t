@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle",
+	"image": "bf",
+	"position": [
+		50,
+		10
+	],
+	"scale": 0.7,
+	"confirm_anim": "BF NOTE UP0"
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "QT idle",
+	"image": "qt-remastered",
+	"position": [
+		-180,
+		130
+	],
+	"scale": 0.7,
+	"confirm_anim": "Pico Idle"
+}

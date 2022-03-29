@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "You know? I kinda wanna go home!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "We haven't even enjoyed our time together!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "robo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GF, health is more important."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Yeah."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neobf",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Sorry GF, I'll make it up to you later."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "neogf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kay, let's take you home."
+		}
+	]
+}

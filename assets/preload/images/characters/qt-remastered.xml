@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="QT.png"><SubTexture name="QT idle DANCE0000" x="0" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT idle DANCE0001" x="534" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT idle DANCE0002" x="1068" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT idle DANCE0003" x="1602" y="0" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0000" x="0" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0001" x="534" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0002" x="1068" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0003" x="1068" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0004" x="1068" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing RIGHT0005" x="1068" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0000" x="1602" y="624" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0001" x="0" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0002" x="534" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0003" x="534" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0004" x="534" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing LEFT0005" x="534" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0000" x="1068" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0001" x="1602" y="1248" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0002" x="0" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0003" x="0" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0004" x="0" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing UP0005" x="0" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0000" x="534" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0001" x="1068" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0002" x="1602" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0003" x="1602" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0004" x="1602" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+<SubTexture name="QT sing DOWN0005" x="1602" y="1872" width="534" height="624" frameX="0" frameY="0" frameWidth="534" frameHeight="624" />
+</TextureAtlas>

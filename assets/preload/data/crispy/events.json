@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "senpai",
+		"player3": null,
+		"events": [
+			[
+				3000,
+				[
+					[
+						"Change Character",
+						"1",
+						"senpai-angry"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "crispy"
+	}
+}
